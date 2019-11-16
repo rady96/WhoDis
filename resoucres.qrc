@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="Style">
+    <file>Stylesheet/icons8-button-160.png</file>
+    <file>Stylesheet/icons8-country-80.png</file>
+    <file>Stylesheet/icons8-ethernet-on-96.png</file>
+    <file>Stylesheet/icons8-latitude-80.png</file>
+    <file>Stylesheet/icons8-longitude-80.png</file>
+    <file>Stylesheet/icons8-region-512.png</file>
+    <file>Stylesheet/icons8-web-address-96.png</file>
+  </qresource>
+</RCC>
