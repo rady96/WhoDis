@@ -14,7 +14,11 @@ Get Information
 6. ISP
 
 # Acknowledgments
-The API is to get information about the domain IP is supplied by http://ip-api.com and the icons downloaded by https://icons8.com
+
+Type  | Link
+------------- | -------------
+API  | http://ip-api.com
+Icons | https://icons8.com
 
 # Download
 Type  | Download Link
