@@ -24,4 +24,6 @@ Icons | https://icons8.com
 Type  | Download Link
 ------------- | -------------
 Windows  | https://github.com/rady96/WhoDis/releases/download/1.0/WhoDis_Windows.exe
+Mac | comming soon....
+Linux | comming soon....
 Source Code | https://github.com/rady96/WhoDis/archive/1.0.zip
