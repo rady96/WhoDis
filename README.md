@@ -17,3 +17,5 @@ Get Information
 The API is to get information about the domain IP is supplied by http://ip-api.com and the icons downloaded by https://icons8.com
 
 # Download
+Windows: https://github.com/rady96/WhoDis/releases/download/1.0/WhoDis_Windows.exe
+Source Code: https://github.com/rady96/WhoDis/archive/1.0.zip
