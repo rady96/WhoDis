@@ -1,11 +1,14 @@
 <RCC>
   <qresource prefix="Style">
-    <file>Stylesheet/icons8-button-160.png</file>
-    <file>Stylesheet/icons8-country-80.png</file>
+    <file>ic_clear_128_28306.ico</file>
+    <file>default.png</file>
     <file>Stylesheet/icons8-ethernet-on-96.png</file>
-    <file>Stylesheet/icons8-latitude-80.png</file>
-    <file>Stylesheet/icons8-longitude-80.png</file>
-    <file>Stylesheet/icons8-region-512.png</file>
     <file>Stylesheet/icons8-web-address-96.png</file>
+    <file>about_3697.ico</file>
+    <file>export_icon-icons.com_52383.ico</file>
+    <file>gift.png</file>
+    <file>Github_icon-icons.com_49946.ico</file>
+    <file>ic_format_list_bulleted_128_28351.ico</file>
+    <file>wondicon-ui-free-website_111210.ico</file>
   </qresource>
 </RCC>
